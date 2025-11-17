@@ -1,0 +1,7 @@
+101,John_Smith,28,fever
+10,,1878005864,
+1,11,11,11
+1,1,1,1
+12,cdjnks,12,fever
+1,abhilash,19,fever
+2,avinash,18,cough
